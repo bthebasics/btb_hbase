@@ -284,6 +284,10 @@ scala - https://gist.github.com/HGladiator/8e58f5da02ac7d8a158b3a9e6739c824
 
 
 
+very good : https://docs.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-build-java-maven-linux
+
+
+
 https://github.com/larsgeorge/hbase-book/blob/master/ch05/src/main/java/admin/ListTablesExample.java
 
 https://github.com/larsgeorge/hbase-book/blob/master/common/src/main/java/util/HBaseHelper.java
